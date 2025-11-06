@@ -3,4 +3,4 @@
 02 Nom: HOUMAIRE Marie
 02 github:
 03 Nom:MAZINGUE
-03 github:
+03 github: git@github.com:lenamazingue
